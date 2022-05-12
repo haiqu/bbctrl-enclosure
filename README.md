@@ -10,7 +10,7 @@
 | cdcdcd | Cool Gray 2 C  |
 
 
-## How ot update PDF from new DXF
+## How to update PDF from new DXF
 
  * Open existing SVG in Inkscape.
  * Import DXF.
